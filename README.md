@@ -27,6 +27,8 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
+![Bitcoin](https://img.shields.io/badge/-Bitcoin-C51A4A?style=flat-square&logo=Bitcoin)
+![Ethereum](https://img.shields.io/badge/-Ethereum-C51A4A?style=flat-square&logo=Ethereum)
 
 
 ![Brieucdlf's github stats](https://github-readme-stats.vercel.app/api?username=brieucdlf&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
