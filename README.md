@@ -6,7 +6,7 @@
 
 - :office: Currently working at [Startupflow](https://github.com/StartupFlow) as a fullstack developer
 - :fr: Living in Paris, France
-- :penguin: Arch user
+- :penguin: Working on Arch, playing on PopOS
 - 📫 How to reach me: [@brieucdlf](https://www.reddit.com/user/brieucdlf) on Reddit
 - :earth_africa: Research interests: privacy, security, hacking, linux, hardware, rasberry pie, crypto, opensource
 - :fox_face: Firefox and Brave user
