@@ -12,7 +12,7 @@
 - :earth_africa: Consuming a lot of Reddit on topics like privacy, security, hacking, linux, hardware, rasberry pie, crypto, opensource...
 - :fox_face: Firefox user
 
-**⚡ My daily uses **
+**⚡ My daily uses**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
