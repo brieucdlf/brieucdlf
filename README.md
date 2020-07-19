@@ -1,6 +1,6 @@
 ### Hi there, I'm Brieuc 👋:octopus:
 
-I'm currently working at [Startupflow](https://github.com/StartupFlow) as a fullstack developper.
+I'm currently working at [Startupflow](https://github.com/StartupFlow) as a fullstack developer.
 
 
 **About me:**
