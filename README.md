@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hi there, I'm Brieuc 👋:octopus:</h2>
+<h2 align="center">👋 Hi there 👋:octopus:</h2>
 <p align="center">
   <a href="https://brieucdlf.fr">Website</a> •
   <a href="https://www.reddit.com/user/brieucdlf">Reddit</a> •
