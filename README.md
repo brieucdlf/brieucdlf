@@ -3,5 +3,4 @@
 - :office: Currently working at [Startupflow](https://www.startupflow.io/) as a software engineer.
 - :fr: Living in Paris, France
 - 📫 How to reach me: [@brieucdlf](https://www.reddit.com/user/brieucdlf) on Reddit
-- :earth_africa: Consuming a lot of Reddit on topics like privacy, security, hacking, linux, hardware, rasberry pie, crypto, opensource...
 - :penguin: :fox_face: Linux & Firefox user
